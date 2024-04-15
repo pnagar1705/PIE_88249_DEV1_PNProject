@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: PIE_88249_DEV1_PNProject
+  gitServerName: GH_PN
+  gitUrl: https://github.com/pnagar1705/PIE_88249_DEV1_PNProject
+  gitUsername: pnagar1705
+  gitBranch: main
